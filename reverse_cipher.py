@@ -1,6 +1,7 @@
 
 #######################################################################################
 #Reverse Cipher Program from the book "Cracking Codes with Python" by Al Sweigart
+#https://www.nostarch.com/crackingcodes/ (BSD Licensed)
 
 # This program simply reverses the text that was entered as a simply cipher. The 
 # text can be deciphered by entering the cipher text instead of the message. 
